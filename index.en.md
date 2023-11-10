@@ -36,6 +36,8 @@ wakamonog member is not only operators but also application developers or any th
 1. 2016/03/18 [wakamonog meeting #9](http://wakamonog.connpass.com/event/26284/)
 1. 2017/06/23 [wakamonog meeting #10](http://wakamonog.connpass.com/event/56705/)
 1. 2019/10/25 [wakamonog meeting #11](http://wakamonog.connpass.com/event/144741/) [Fukuoka Satellite](https://wakamonog.connpass.com/event/148359/)
+1. 2023/11/10 [wakamonog meeting #12](https://wakamonog.connpass.com/event/293169/)
+1. 2024/01/16 wakamonog meeting #13 @Fukuoka Satellite
 
 ## Recruting members
 
