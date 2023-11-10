@@ -3,16 +3,10 @@ layout: layout
 title: wakamonog - インターネット支える若者たちのコミュニティ
 ---
 ## 次のイベント
-次のイベント "wakamonog meeting 12" は、2023年11月10日に開催いたします。
 
-皆様のご参加をお待ちしております。
+次のイベント "wakamonog meeting 13" は、2024年1月16日に開催いたします。
 
-[wakamonog meeting 12のconnpassページ（勉強会）](https://wakamonog.connpass.com/event/293169/)
-
-[wakamonog meeting 12 懇親会のconnpassページ](https://wakamonog.connpass.com/event/294929/)
-
-[wakamonog meeting 12 特別企画（とう道見学）のconnpassページ](https://wakamonog.connpass.com/event/296301/)
-
+詳細は後日告知いたします。
 
 ## wakamonogとは
 
