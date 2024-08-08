@@ -1,8 +1,9 @@
 const headerMainMenu = [
-    {text:"About", href:"#" },
-    { text: "Activities", link: "#" },
-    { text: "Contens for wakamonoger", link: "#" },
-    { text: "Blog", link: "#" }
+    { text:"Home", href:"/" },
+    { text: "Activities", href: "/Activities" },
+    { text: "Contents", href: "/Contents" },
+    { text: "Blog", href: "/Blog" },
+    { text: "Contact", href: "/Contact" }
 
 ]
 

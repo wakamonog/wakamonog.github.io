@@ -71,6 +71,7 @@
   height: 2px;
   background: var(--color-link);
   transition: 0.35s transform;
+  font-weight: bold; /* テキストを太字にする */
 }
 
 .header__link:hover::after {

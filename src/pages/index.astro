@@ -1,8 +1,17 @@
 ---
 import Layout from "../layouts/Layout.astro";
-
+import Container from "@components/container.astro";
+import About_W from "@components/About_w.astro";
+import Activity_content from "@components/Activity_content.astro";
+import FAQ from "@components/FAQ.astro";
+import Goal from "@components/Goal.astro";
 ---
+
 <Layout>
-
-
+    <Container class="pt-36">
+        <About_W class="pb-36" />
+        <Activity_content class="pb-36" />
+        <Goal />
+        <FAQ />
+    </Container>
 </Layout>

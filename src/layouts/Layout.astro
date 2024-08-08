@@ -6,16 +6,15 @@ import Footer from "@components/footer.astro";
 import GradientBg from "@components/atoms/GradientBg/GradientBg.astro";
 ---
 
+<!DOCTYPE html>
 <html lang="ja">
   <head>
     <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
   </head>
   <body>
     <GradientBg/>
-      <Header/>
-      <main>
-        <slot />
-      </main>
-      <Footer />
+    <Header/>
+    <slot />
+    <Footer/>
   </body>
 </html>
