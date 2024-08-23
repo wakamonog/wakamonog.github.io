@@ -1,9 +1,9 @@
 const headerMainMenu = [
-    { text:"Home", href:"/base-wNOG/" },
-    { text: "Activities", href: "/base-wNOG/Activities" },
-    { text: "Contents", href: "/base-wNOG/Contents" },
-    { text: "Blog", href: "/base-wNOG/Blog" },
-    { text: "Contact", href: "/base-wNOG/Contact" }
+    { text:"Home", href:"/new-site/" },
+    { text: "Activities", href: "/new-site/Activities" },
+    { text: "Contents", href: "/new-site/Contents" },
+    { text: "Blog", href: "/new-site/Blog" },
+    { text: "Contact", href: "/new-site/Contact" }
 
 ]
 
