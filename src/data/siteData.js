@@ -1,6 +1,6 @@
 export const siteData = {
     siteTitle:"WAKAMONOG",
-    siteLogo:"/src/img/wakamonog.png",
+    siteLogo:"./img/wakamonog.png",
     siteDesc:"",
     siteSlogan:""
 }
