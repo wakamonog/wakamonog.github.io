@@ -1,9 +1,9 @@
 const headerMainMenu = [
-    { text:"Home", href:"/new-site/" },
-    // { text: "Activities", href: "/new-site/Activities" },
-    // { text: "Contents", href: "/new-site/Contents" },
-    // { text: "Blog", href: "/new-site/Blog" },
-    { text: "Contact", href: "/new-site/Contact" }
+    { text:"Home", href:"/" },
+    // { text: "Activities", href: "/Activities" },
+    // { text: "Contents", href: "/Contents" },
+    // { text: "Blog", href: "/Blog" },
+    { text: "Contact", href: "/Contact" }
 
 ]
 
